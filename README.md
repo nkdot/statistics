@@ -81,7 +81,7 @@ There were 74 records in total. 5 rows with missing columns are omitted for anal
  Audience Score is easy grader than Rotten Tomato Score. For the same movie, Audience Score would give higher ratings than Rotten Tomato. Furthermore,  since the standard deviation of audience score is much less than that of Rotten Tomato Score, we can state that Audience Score is generally more consistent (Less Variation) than Rotten Tomato Score. We guess it could partially due to Rotten Tomato falls short of standardized rating system.
          
 ## Relationship between Ratings & Worldwide Gross (Simple Linear Regression):
-![](https://github.com/nkdot/statistics/blob/main/images/Picture3.png)       |![](https://github.com/nkdot/statistics/blob/main/images/Picture4.png)
+![](https://github.com/nkdot/statistics/blob/main/images/Picture3.png) ![](https://github.com/nkdot/statistics/blob/main/images/Picture4.png)
          
   Adjusted R-squared=0.1443, which means that only 14% of variation in worldwide gross can be explained using Audience score.
 
