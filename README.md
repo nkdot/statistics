@@ -29,7 +29,11 @@ There were 74 records in total. 5 rows with missing columns are omitted for anal
 + We can also infer that because Comedy, Drama, Romance are the most profitable, producers are more likely to produce these types of movies
 + Avg audience score for Drama , Comedy, Romance are similar. Although Fantasy receives the highest avg score, it has the least number of movies.
 + Avg scores between Audience and Rotten Tomato are very different. Avg Scores provided by Rotten Tomato are lower than that of Audience. However, both produce almost the same ranking for the five types of movies.
---**PICTURE**
+                                                                                   |   
+:---------------------------------------------------------------------------------:|:----------------------------------------------------------------------------:
+![alt text](https://github.com/nkdot/statistics/tree/main/images/picture1)         |![alt text](https://github.com/nkdot/statistics/tree/main/images/picture2)
+![alt text](https://github.com/nkdot/statistics/tree/main/images/p3)               |![alt text](https://github.com/nkdot/statistics/tree/main/images/p4)
+![alt text](https://github.com/nkdot/statistics/tree/main/images/p5)               |![alt text](https://github.com/nkdot/statistics/tree/main/images/p6)
 
 + The highest number of most profitable movies produced in the year 2008 and the world wide gross income is also the highest in the year 2008.
 + 2010 is not the best year compared to the year 2008
@@ -38,7 +42,7 @@ There were 74 records in total. 5 rows with missing columns are omitted for anal
   + Avg profitability is the lowest
   + Avg worldwide gross is the lowest
   + Reviews scores are the lowest
- 
+
 ## Hypothesis testing:
 ### F test:
  Hypothesis: 
@@ -74,7 +78,7 @@ There were 74 records in total. 5 rows with missing columns are omitted for anal
  Audience Score is easy grader than Rotten Tomato Score. For the same movie, Audience Score would give higher ratings than Rotten Tomato. Furthermore,  since the standard deviation of audience score is much less than that of Rotten Tomato Score, we can state that Audience Score is generally more consistent (Less Variation) than Rotten Tomato Score. We guess it could partially due to Rotten Tomato falls short of standardized rating system.
          
 ## Relationship between Ratings & Worldwide Gross (Simple Linear Regression):
-         **PICTURE**
+![](https://github.com/nkdot/statistics/tree/main/images/picture3)       |![](https://github.com/nkdot/statistics/tree/main/images/picture4)
          
   Adjusted R-squared=0.1443, which means that only 14% of variation in worldwide gross can be explained using Audience score.
 
