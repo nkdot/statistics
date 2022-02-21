@@ -89,19 +89,24 @@ There were 74 records in total. 5 rows with missing columns are omitted for anal
 ## Limitations and possible future research:
 The data set “Hollywood’s most profitable stories” had access to limited information. There are many other factors which may be influential in making a movie more successful in terms of worldwide gross and popularity. Some of the marketing strategies are identified and discussed below.
          
-+	Effect of actors in the movie
++	Effect of actors in the movie:
+         
 Though it may be difficult to draw conclusions about the direction of causality, for some movies it is possible to say that the involvement of star actors is critical to the success of those movies. The stronger a cast already is, the greater the impact of a newly recruited star with a track record of box office successes or with a strong artistic reputation [1].
  
-+ Effect of title of the movie
++ Effect of title of the movie:
+         
 For instance, when the movie “Tangled” was first put into production, the film was promoted as having the title Rapunzel Unbraided, which was later changed to Rapunzel. To market the film to both sexes and additional age groups, Disney changed the film's name from Rapunzel to Tangled while also emphasizing Flynn Rider, the film's prominent male character, showing that his story is just as important as Rapunzel’s [2].
  
-+ Movie plot and connecting with large audience
++ Movie plot and connecting with large audience:
+         
 Movie plot with less controversial theme and its ability to connect with a large audience play a major role in successful movies. For instance, if the movie plot belongs to a small demographic/ ethnic group and unable to connect with a large audience, the movie may not become successful.
  
-+ Proportion of viewers who read or write reviews on the internet for the movies that they watch
++ Proportion of viewers who read or write reviews on the internet for the movies that they watch:
+         
 Reviewer score play a major role in attracting the audience to watch a movie. If a group of people control the rating of any movie, it may distort the reviewer score rating. Also, some reviewers may be biased against genre, actor or the film maker.  Hence it is important to know the proportion of viewers who read or write reviews on the internet for the movies that they watch.
  
-+ List of unsuccessful movies with similar information as given in the data set “Hollywood’s most profitable stories”
++ List of unsuccessful movies with similar information as given in the data set “Hollywood’s most profitable stories”:
+         
 Data on unsuccessful movie may shed some light on the effect of audience & rotten tomatoes rating in successful & unsuccessful movies. 
 
 Reference
