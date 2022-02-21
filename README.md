@@ -30,11 +30,13 @@ There were 74 records in total. 5 rows with missing columns are omitted for anal
 + Avg audience score for Drama , Comedy, Romance are similar. Although Fantasy receives the highest avg score, it has the least number of movies.
 + Avg scores between Audience and Rotten Tomato are very different. Avg Scores provided by Rotten Tomato are lower than that of Audience. However, both produce almost the same ranking for the five types of movies.
 
-![](https://github.com/nkdot/statistics/blob/main/images/Picture1.png)        |![](https://github.com/nkdot/statistics/blob/main/images/Picture2.png)|
+![](https://github.com/nkdot/statistics/blob/main/images/p1.png) ![](https://github.com/nkdot/statistics/blob/main/images/p2.png)
 
-![](https://github.com/nkdot/statistics/tree/main/images/p3.png)              |![](https://github.com/nkdot/statistics/tree/main/images/p4.png)|
 
-![](https://github.com/nkdot/statistics/tree/main/images/p5.png)              |![](https://github.com/nkdot/statistics/tree/main/images/p6.png)|
+![](https://github.com/nkdot/statistics/blob/main/images/p3.png) ![](https://github.com/nkdot/statistics/blob/main/images/p4.png)
+
+
+![](https://github.com/nkdot/statistics/blob/main/images/p5.png) ![](https://github.com/nkdot/statistics/blob/main/images/p6.png)
 
 + The highest number of most profitable movies produced in the year 2008 and the world wide gross income is also the highest in the year 2008.
 + 2010 is not the best year compared to the year 2008
